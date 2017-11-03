@@ -26,7 +26,7 @@ edge [fontname=helvetica] ;
 9 -> 11 ;
 12 [label=<gini = 0.0<br/>samples = 3<br/>value = [0, 0, 3]<br/>class = virginica>, fillcolor="#8139e5ff"] ;
 11 -> 12 ;
-13 [label=<sepal length (cm) &le; 6.95<br/>gini = 0.444<br/>samples = 3<br/>value = [0, 2, 1]<br/>class = versicolor>, fillcolor="#39e5817f"] ;
+13 [label=<petal length (cm) &le; 5.45<br/>gini = 0.444<br/>samples = 3<br/>value = [0, 2, 1]<br/>class = versicolor>, fillcolor="#39e5817f"] ;
 11 -> 13 ;
 14 [label=<gini = 0.0<br/>samples = 2<br/>value = [0, 2, 0]<br/>class = versicolor>, fillcolor="#39e581ff"] ;
 13 -> 14 ;
